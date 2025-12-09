@@ -36,18 +36,6 @@
    - Built a funnel table and charts in Google Sheets
    - Created a cohort heatmap to quickly see retention decay
 
----
-
-## 📊 Sample Metrics (Example)
-
-- Overall conversion from first event → target action: **X%**
-- Highest drop-off between **Step A → Step B** (Y% relative drop)
-- Month 1 retention: **Z%**; Month 3 retention: **W%**
-
-*(Replace X/Y/Z/W with your actual numbers.)*
-
----
-
 ## 📷 Preview
 
 `![Funnel Table](assets/funnel_table.png)`  
